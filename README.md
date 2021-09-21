@@ -19,5 +19,5 @@ I have a habit of displaying the code in action
 
 ![code in action](https://user-images.githubusercontent.com/39020723/134251696-6502183a-0016-4a65-acb5-05c234295841.png)
 
-and this is the output when the code is scanned
+This is the output when the code is scanned <br><br>
 <img src="https://user-images.githubusercontent.com/39020723/134251717-a0c7c790-7906-49ee-8f33-cd6b66fdeb6d.jpeg" alt="Output when code is scanned" width="240"/>
